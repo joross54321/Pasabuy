@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1053246865675",
+    "project_id": "pasabuy-a3166",
+    "storage_bucket": "pasabuy-a3166.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053246865675:android:7bb371c5fde314e276e20e",
+        "android_client_info": {
+          "package_name": "com.example.pasabuy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg17FIWlqevlivc2hGBPV6XaohjmyDINU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
